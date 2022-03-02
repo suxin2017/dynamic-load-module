@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-load-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "suxin2017",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
